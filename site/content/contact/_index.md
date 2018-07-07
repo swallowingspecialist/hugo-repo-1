@@ -1,19 +1,19 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/logo.svg
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: |-
+      10 Anson Road #15-14 
+      International Plaza 
+      S079903 Singapore.
+  - heading: Phone & Email
+    text: |-
+      Phone:             +65 90013231 / +65 98004474
+      Email:              SpeechTherapyWorks@gmail.com
 ---
-
 We’d love to get in touch with you and hear your ideas and
 questions. We strive to grow and improve constantly and your feedback
 is valuable for us.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Please contact us with any questions about Speech, Language and Swallowing Therapy for both Adults and Children or to arrange for an appointment.
