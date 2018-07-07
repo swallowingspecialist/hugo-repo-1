@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: Services at Speech Therapy Works
 image: /img/about-jumbotron.jpg
 values:
   - heading: Yoon Wai Lam
@@ -82,5 +82,37 @@ values:
       since 2004. She is proficient in English and Malay both for written and
       spoken language, and is conversant in Mandarin, Cantonese, Hokkien, and
       Hainanese.
+  - heading: Swallowing Difficulty
+    imageUrl: /img/about-direct-sourcing.jpg
+    text: >-
+      Assessment
+
+      Our assessments aim to identify the causes of the swallowing problem. Only
+      when the causes are identified can accurate diagnosis be made which will
+      then lead to better treatment outcome. Assessments will include one or
+      more of the following:-
+
+      Clinical Bedside Evaluation
+
+      Videofluoroscopy (X-ray of Swallowing)
+
+      Fiberoptic Endoscopic Evaluation of Swallowing (FEES)
+
+
+      <h2>Treatment</h2>
+
+      Treatment will be specific in targeting the underlying cause/s of the
+      swallowing problem. There is no one ultimate treatment or solution in
+      treating swallowing difficulties. Our treatment may include a combination
+      of the following approaches:-
+
+      Computerized swallowing therapy (sEMG Biofeedback Assisted Therapy)
+
+      VitalStim Therapy
+
+      Specific swallowing exercises targeting specific swallowing problems
+
+      Prosthetic management
+  - {}
 ---
 
