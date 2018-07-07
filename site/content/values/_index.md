@@ -1,45 +1,107 @@
 ---
-title: "Values"
+title: Values
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: Yoon Wai Lam
+    imageUrl: /img/about-shade-grown.jpg
+    text: >-
+      Director
+        Consultant Speech-Language Therapist
+      Part-Time Lecturer, MSc (Speech and Language Pathology), National
+      University of Singapore
+
+      B. Speech Sciences (Hons)
+
+      Certified in VitalStim; Hanen Programme (It Takes Two To Talk); LSVT
+        
+      Wai Lam has more than 10 years of experience working with both adults with
+      speech-language and swallowing disorders as well as children with
+      speech-language disorders.
+
+      He began his career in Singapore General Hospital (SGH) in year 2001. In
+      year 2006, he moved on to set up Speech Therapy Works to provide locum
+      services to the community hospitals (St Luke’s Hospital, Bright Vision
+      Hospital) and private hospitals. He continued to serve SGH as a Locum
+      Senior Speech Therapist until December 2009. In year 2008, he joined
+      National University of Singapore as a Part-time Lecturer in the Masters in
+      Speech-Language Pathology (SLP) programme.
+       
+      Throughout his 10 years of practise, he has developed training programmes
+      and conducted various workshops both local and overseas. He has trained
+      many Speech Therapists and Speech Therapist students into conducting
+      Clinical Bedside Swallowing Evaluation, Videofluoroscopy, Fiberoptic
+      Endoscopic Evaluation of Swallowing and dysphagia management. He is often
+      consulted upon by his peers and doctors for complex cases involving
+      dysphagia. He also pioneered the running of the very first and only
+      Prosthetic Speech and Swallowing Clinic (PSSR) in Singapore at the
+      National Dental Centre with a Consultant Prosthodontist. Wai Lam has
+      assisted St Luke’s hospital into setting up FEES (Fiberoptic Endoscopic
+      Evaluation of Swallowing) services. St Luke’s Hospital is the first
+      Community Hospital to provide FEES services in Singapore.
+       
+      Wai Lam has been a member of the Speech and Hearing Association of
+      Singapore (SHAS), a professional body for Speech and Language Therapists,
+      since 2001. He is proficient in English and Malay both for written and
+      spoken language, and is conversant in Mandarin and Cantonese.
+  - heading: Low Ai Wei
+    imageUrl: /img/about-single-origin.jpg
+    text: >-
+      Consultant Speech-Language Therapist
+
+      B. Speech Sciences (Hons)
+
+      Certified in VitalStim; PROMPT (Basic Level); Hanen Programme (It Takes
+      Two To Talk & More Than Words)
+       
+      Ai Wei began her career as a Speech and Language Therapist in Singapore
+      General Hospital in 2004, where she gained valuable experience assessing
+      and managing both adults and paediatric cases across various disorders
+      involving speech, language, and swallowing issues.
+       
+      In 2008, Ai Wei joined Speech Therapy Works in providing locum services to
+      community hospitals (Ang Mo Kio - Thye Hua Kwan Hospital, Bright Vision
+      Hospital), nursing homes, and a private paediatric clinic. She has also
+      been providing home based therapy for both adults and children.
+       
+      In addition to being a clinician, Ai Wei has supervised and trained junior
+      Speech Therapists and Speech Therapy students on clinical placements in
+      conducting Clinical Bedside Swallowing Evaluation and paediatric speech
+      and language management. She is also actively giving on-going talks to
+      healthcare professionals on “Introduction to Dysphagia Management”.
+       
+      Ai Wei is trained and experienced in carrying out various programs and
+      intervention approaches suitable for children with speech and language
+      delay, articulation and phonological disorder, children with developmental
+      apraxia of speech, children with autism spectrum disorder, children with
+      hearing loss, children with auditory processing issues, and childhood
+      stuttering. She has been working with a varied paediatric caseload from
+      infants to school-age children.
+       
+      Ai Wei has been a member of the Speech and Hearing Association of
+      Singapore (SHAS), a professional body for Speech and Language Therapists,
+      since 2004. She is proficient in English and Malay both for written and
+      spoken language, and is conversant in Mandarin, Cantonese, Hokkien, and
+      Hainanese.
+  - heading: Sustainable farming
+    imageUrl: /img/about-sustainable-farming.jpg
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      Sustainable agriculture is farming in sustainable ways based on an
+      understanding of ecosystem services, the study of relationships between
+      organisms and their environment. What grows where and how it is grown are
+      a matter of choice and careful consideration for nature and communities.
+  - heading: Direct sourcing
+    imageUrl: /img/about-direct-sourcing.jpg
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+      We want to truly empower the communities that bring amazing coffee to you.
+      That’s why we reinvest 20% of our profits into farms, local businesses and
+      schools everywhere our coffee is grown. You can see the communities grow
+      and learn more about coffee farming on our blog.
+  - heading: Reinvest profits
+    imageUrl: /img/about-reinvest-profits.jpg
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      We want to truly empower the communities that bring amazing coffee to you.
+      That’s why we reinvest 20% of our profits into farms, local businesses and
+      schools everywhere our coffee is grown. You can see the communities grow
+      and learn more about coffee farming on our blog.
 ---
+
