@@ -3,8 +3,22 @@ title: Speech therapy
 subtitle: Better speech and language
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
-  text: This is so much better
+  heading: Why Speech Therapy Works?
+  text: >-
+    Speech Therapy Works is a community-based private practice serving clients
+    across all ages especially families or individuals who have difficulty
+    receiving therapy, or would benefit from having the therapist come to them.
+
+    We aim to be the leading home based speech therapy provider offering
+    high-quality personalized speech therapy to our clients in the comfort of
+    their own homes.
+
+    Our vast experience in both the private and public healthcare sector allows
+    us to have a better understanding of Singapore’s overall healthcare system.
+
+    We are able to reach out to the community across different language and
+    dialect groups as we are proficient in English, Malay, Mandarin, Cantonese,
+    Hokkien and Hainanese.
 intro:
   heading: What we offer
   text: >-
