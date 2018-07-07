@@ -1,8 +1,7 @@
 ---
-title: Our Coffee
-type: products
+title: Home Speech Therapy
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: Why Speech Therapy Services at home?
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -38,11 +37,32 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    We believe in providing comprehensive speech therapy at our clients’
+    convenience. 
+
+
+    A client’s home provides a more conducive environment for learning of new
+    skills and/or generalization of new skills learnt into real life situations.
+    Not forgetting, the home provides the most naturalistic environment to
+    observe interaction between the client and their caregivers.
+
+
+    We understand the needs and challenges of being a caregiver. Most caregivers
+    are working thus sending your love one to the clinic for an appointment
+    often result in taking leave or time off from work. This adds unnecessary
+    stress to caregivers as not all employers will be as understanding towards
+    the needs of being a caregiver. 
+
+
+    Some clients require intensive therapy sessions to optimize treatment
+    results. However, frequent travelling to the clinic can be tiring for both
+    the client and their caregiver(s).
+
+
+    With the advancement of technology, we can instantly turn every home into a
+    computerized speech and swallowing gym to carry out intensive speech and/or
+    swallowing therapy. As such, we can bring the clinic to the clients' home!
 main:
   heading: Great coffee with no compromises
   description: >
@@ -70,33 +90,8 @@ testimonials:
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+  heading: ''
+  description: ''
+  plans: []
 ---
-
 
