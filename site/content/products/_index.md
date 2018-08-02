@@ -217,21 +217,87 @@ intro:
     computerized speech and swallowing gym to carry out intensive speech and/or
     swallowing therapy. As such, we can bring the clinic to the clients' home!
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Children Speech Therapy Services
+  description: >-
+    We offer assessment and therapy services for children who present with
+    speech, language and/or communication difficulties that may be due to the
+    following causes:-
+
+
+    Attention Deficit / Hyperactivity Disorder
+
+    Articulation and Phonological Disorders 
+
+    Auditory Processing Disorders
+
+    Autism Spectrum Disorder (ASD) / Pervasive Developmental Disorders (PDD)
+
+    Childhood Stuttering
+
+    Developmental Apraxia of Speech
+
+    Global Developmental Delay
+
+    Hearing Loss
+
+    Language Delay (“Late bloomers”)
+
+    Specific Language Impairment
+     
+
+    Assessment
+
+
+    A typical assessment session generally takes about an hour to complete and
+    may include the administration of a standardized test, clinical observation
+    during free/structured play, and interview or questionnaire with the parent
+    or caregiver. The 3 main areas to be assessed will include speech, language
+    (comprehension and expression), and communication.
+
+
+    Assessment findings will help us to identify the problem, if one is present,
+    and determine the child’s current developmental age of function as well as
+    the severity and nature of the deficit. Appropriate recommendations can then
+    be made with regard to suitability of therapy, type of therapy approaches,
+    specific therapy goals as well as frequency and length of treatment.
+
+     
+
+    Therapy
+
+
+    Therapy sessions generally last for 45 minutes to 1 hour in length,
+    depending on the age of the child and nature of the
+
+    speech and/or language difficulties. And because we are providing therapy in
+    an environment familiar to the child, new skills taught can be put to real
+    life practice almost immediately by enacting daily routines or play with
+    toys and games that is of interest to the child.
+
+
+    We are able to provide the following specialized treatment approaches:-
+
+
+    Picture Exchange Communication System (PECS)
+
+    Hanen Programme – It Takes Two to Talk & More Than Words
+
+    PROMPT Technique (Introductory Level)
+
+    Developmental, Individual Difference, Relationship-based (DIR®/Floortime™)
+
+    Social Thinking
+
+    Lidcombe Programme
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Children at play
+    image: /img/children_daniel-1-.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Girl whispering into ear
+    image: /img/peadiatric_for_website.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/slp_child.png
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
