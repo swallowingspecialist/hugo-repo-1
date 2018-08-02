@@ -1,6 +1,6 @@
 ---
 title: Speech Therapy Services
-image: /img/stw1.jpg
+image: /img/icon.svg
 heading: What we offer
 description: >-
   Speech Therapy Works is about using the latest techniques and therapies to
