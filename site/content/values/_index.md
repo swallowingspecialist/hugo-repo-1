@@ -1,9 +1,9 @@
 ---
-title: Services at Speech Therapy Works
-image: /img/about-jumbotron.jpg
+title: About Us
+image: /img/stw.jpg
 values:
   - heading: Yoon Wai Lam
-    imageUrl: /img/about-shade-grown.jpg
+    imageUrl: /img/wai_lam_crop_resized2.jpg
     text: >-
       Director
         Consultant Speech-Language Therapist
@@ -44,7 +44,7 @@ values:
       since 2001. He is proficient in English and Malay both for written and
       spoken language, and is conversant in Mandarin and Cantonese.
   - heading: Low Ai Wei
-    imageUrl: /img/about-single-origin.jpg
+    imageUrl: /img/aiwei_website_crop_resized2.jpg
     text: >-
       Consultant Speech-Language Therapist
 
@@ -82,37 +82,5 @@ values:
       since 2004. She is proficient in English and Malay both for written and
       spoken language, and is conversant in Mandarin, Cantonese, Hokkien, and
       Hainanese.
-  - heading: Swallowing Difficulty
-    imageUrl: /img/about-direct-sourcing.jpg
-    text: >-
-      Assessment
-
-      Our assessments aim to identify the causes of the swallowing problem. Only
-      when the causes are identified can accurate diagnosis be made which will
-      then lead to better treatment outcome. Assessments will include one or
-      more of the following:-
-
-      Clinical Bedside Evaluation
-
-      Videofluoroscopy (X-ray of Swallowing)
-
-      Fiberoptic Endoscopic Evaluation of Swallowing (FEES)
-
-
-      <h2>Treatment</h2>
-
-      Treatment will be specific in targeting the underlying cause/s of the
-      swallowing problem. There is no one ultimate treatment or solution in
-      treating swallowing difficulties. Our treatment may include a combination
-      of the following approaches:-
-
-      Computerized swallowing therapy (sEMG Biofeedback Assisted Therapy)
-
-      VitalStim Therapy
-
-      Specific swallowing exercises targeting specific swallowing problems
-
-      Prosthetic management
-  - {}
 ---
 
