@@ -1,7 +1,7 @@
 ---
-title: Speech therapy
-subtitle: Better speech and language
-image: /img/home-jumbotron.jpg
+title: Speech Therapy Works
+subtitle: Where Passion Brings Progress
+image: /img/stw.jpg
 blurb:
   heading: Why Speech Therapy Works?
   text: >-
