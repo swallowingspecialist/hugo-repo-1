@@ -2,9 +2,9 @@
 title: Terms of Use
 date: 2016-12-17T15:04:10.000Z
 description: >-
-  The Coffee Taster’s Flavor Wheel, the official resource used by coffee
-  tasters, has been revised for the first time this year.
-image: /img/blog-flavor_wheel.jpg
+  While every effort has been put in place to present information clearest, the
+  terms of use below governs the website.
+image: /img/products-grid2.jpg
 ---
 Terms of Use
 
