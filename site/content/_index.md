@@ -28,12 +28,10 @@ intro:
     We believe in providing comprehensive speech therapy at our clients’
     convenience.
 
-
     A client’s home provides a more conducive environment for learning of new
     skills and/or generalization of new skills learnt into real life situations.
     Not forgetting, the home provides the most naturalistic environment to
     observe interaction between the client and their caregivers.
-
 
     We understand the needs and challenges of being a caregiver. Most caregivers
     are working thus sending your love one to the clinic for an appointment
@@ -41,11 +39,9 @@ intro:
     stress to caregivers as not all employers will be as understanding towards
     the needs of being a caregiver.
 
-
     Some clients require intensive therapy sessions to optimize treatment
     results. However, frequent travelling to the clinic can be tiring for both
     the client and their caregiver(s).
-
 
     With the advancement of technology, we can instantly turn every home into a
     computerized speech and swallowing gym to carry out intensive speech and/or
