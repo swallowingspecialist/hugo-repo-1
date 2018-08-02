@@ -1,12 +1,10 @@
 ---
-title: Home Speech Therapy
-image: /img/products-jumbotron.jpg
-heading: Why Speech Therapy Services at home?
+title: Speech Therapy Services
+image: /img/stw1.jpg
+heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Speech Therapy Works is about using the latest techniques and therapies to
+  provide best solutions for better quality of life
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
