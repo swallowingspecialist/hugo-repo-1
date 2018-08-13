@@ -192,7 +192,7 @@ intro:
   heading: What we offer
   description: >-
     We believe in providing comprehensive speech therapy at our clients’
-    convenience. 
+    convenience.
 
 
     A client’s home provides a more conducive environment for learning of new
