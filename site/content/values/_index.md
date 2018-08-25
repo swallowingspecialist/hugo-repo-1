@@ -6,7 +6,9 @@ values:
     imageUrl: /img/wai_lam_crop_resized2.jpg
     text: >-
       Director
-        Consultant Speech-Language Therapist
+
+      Consultant Speech-Language Therapist
+
       Part-Time Lecturer, MSc (Speech and Language Pathology), National
       University of Singapore
 

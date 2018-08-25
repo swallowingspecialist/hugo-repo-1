@@ -1,6 +1,6 @@
 ---
 title: Speech Therapy Works
-image: /img/stw.jpg
+image: /img/about-direct-sourcing.jpg
 heading: What we offer
 description: >-
   Speech Therapy Works is about using the latest techniques and therapies to
@@ -120,10 +120,8 @@ intro:
         produced as well as how stuttering is affecting and impacting on
         day-to-day life.
 
-         
-         
 
-        stuttering_boyTreatment
+        <h1>Treatment</h1>
 
 
         Treatment will focus on how to control stuttering which may include
@@ -192,7 +190,7 @@ intro:
   heading: What we offer
   description: >-
     We believe in providing comprehensive speech therapy at our clients’
-    convenience. 
+    convenience.
 
 
     A client’s home provides a more conducive environment for learning of new
