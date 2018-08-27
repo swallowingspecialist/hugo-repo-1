@@ -203,7 +203,7 @@ intro:
     are working thus sending your love one to the clinic for an appointment
     often result in taking leave or time off from work. This adds unnecessary
     stress to caregivers as not all employers will be as understanding towards
-    the needs of being a caregiver. 
+    the needs of being a caregiver.
 
 
     Some clients require intensive therapy sessions to optimize treatment
