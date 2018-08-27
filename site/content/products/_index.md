@@ -1,6 +1,6 @@
 ---
 title: Speech Therapy Works
-image: /img/about-direct-sourcing.jpg
+image: /img/locum_services_doctors.jpg
 heading: What we offer
 description: >-
   Speech Therapy Works is about using the latest techniques and therapies to
@@ -294,18 +294,10 @@ main:
     alt: Girl whispering into ear
     image: /img/peadiatric_for_website.jpg
   image3:
-    alt: Coffee beans
-    image: /img/slp_child.png
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+    alt: ''
+    image: ''
+testimonials: []
+full_image: /img/slp_child.png
 pricing:
   heading: ''
   description: ''
