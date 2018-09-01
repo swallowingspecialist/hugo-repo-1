@@ -47,16 +47,14 @@ intro:
     computerized speech and swallowing gym to carry out intensive speech and/or
     swallowing therapy. As such, we can bring the clinic to the clients' home!
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/speech_couple_laptop.jpg
     text: Adult Speech Therapy Serices
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/peadiatric_for_website.jpg
     text: Child Speech Therapy Services
 values:
   heading: Our values
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    We desire to see our clients achieve better quality of life through the
+    services we offer.
 ---
 
