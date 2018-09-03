@@ -50,9 +50,9 @@ intro:
     computerized speech and swallowing gym to carry out intensive speech and/or
     swallowing therapy. As such, we can bring the clinic to the clients' home!
 products:
-  - image: /img/speech_couple_laptop.jpg
+  - image: /img/STW3.jpg
     text: Adult Speech Therapy Serices
-  - image: /img/peadiatric_for_website.jpg
+  - image: /img/STW2.jpg
     text: Child Speech Therapy Services
 values:
   heading: Our values
