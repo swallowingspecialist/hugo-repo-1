@@ -4,7 +4,7 @@ date: 2016-12-17T15:04:10.000Z
 description: >-
   While every effort has been put in place to present information clearest, the
   terms of use below governs the website.
-image: /img/products-grid2.jpg
+image: /img/STW3.jpg
 ---
 Terms of Use
 
