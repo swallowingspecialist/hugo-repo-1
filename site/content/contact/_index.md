@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/stw_logo.jpg
+logo: /img/android-chrome-512x512.png
 contact_entries:
   - heading: Office Location
     text: |-
