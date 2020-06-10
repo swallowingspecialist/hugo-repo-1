@@ -12,7 +12,6 @@ contact_entries:
       Phone:             +65 9001 3231
       Email:              SpeechTherapyWorks@gmail.com
 ---
-We at **Speech Therapy Works,** love to get in touch with you and hear your ideas and questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+We at **Speech Therapy Works,** love to get in touch with you and hear your ideas and questions. We strive to grow and improve constantly and your feedback is valuable for us.
 
 Please contact us with any questions about Speech, Language and Swallowing Therapy for both Adults and Children or to arrange for an appointment.
