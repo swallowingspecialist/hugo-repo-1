@@ -21,7 +21,10 @@ blurb:
 
     We are able to reach out to the community across different language and
     dialect groups as we are proficient in English, Malay, Mandarin, Cantonese,
-    Hokkien and Hainanese.
+    Hokkien and Hainanese. We have  also been listed in the 2020 list of The
+    Best Speech Therapists in Singapore.
+
+    [https://www.bestinsingapore.co/best-speech-therapists-singapore/]  
 intro:
   heading: What we offer
   text: >-
